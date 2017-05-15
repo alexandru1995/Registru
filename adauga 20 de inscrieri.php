@@ -1,0 +1,1 @@
+INSERT INTO `catedra` (`id_catedra`, `id_facultete`, `denumire_c`) VALUES (NULL, '1', 'energetica');
